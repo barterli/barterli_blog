@@ -1,0 +1,626 @@
+# LANGUAGE (LOCALE) translation for WordPress.
+# This file is distributed under the same license as the WordPress package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Decode v2.8.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/decode\n"
+"POT-Creation-Date: 2013-12-17 20:15-0600\n"
+"PO-Revision-Date: 2013-12-17 20:16-0600\n"
+"Last-Translator: Scott Smith <mail@ScottHSmith.com>\n"
+"Language-Team: Scott Smith <mail@ScottHSmith.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"Description:\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: ../404.php:26
+msgid "Try looking in the monthly archives."
+msgstr ""
+
+#: ../404.php:32
+msgid "Most Used Categories"
+msgstr ""
+
+#: ../archive.php:27
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: ../archive.php:30
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: ../archive.php:30
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: ../archive.php:33
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: ../archive.php:33
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: ../archive.php:36
+msgid "Asides"
+msgstr ""
+
+#: ../archive.php:39
+msgid "Galleries"
+msgstr ""
+
+#: ../archive.php:42
+msgid "Images"
+msgstr ""
+
+#: ../archive.php:45
+msgid "Videos"
+msgstr ""
+
+#: ../archive.php:48
+msgid "Quotes"
+msgstr ""
+
+#: ../archive.php:51
+msgid "Links"
+msgstr ""
+
+#: ../archive.php:54
+msgid "Statuses"
+msgstr ""
+
+#: ../archive.php:57
+msgid "Audio Posts"
+msgstr ""
+
+#: ../archive.php:60
+msgid "Chats"
+msgstr ""
+
+#: ../archive.php:63 ../page-explore.php:39 ../sidebar.php:17
+#: ../inc/extras.php:86
+msgid "Archives"
+msgstr ""
+
+#: ../author.php:36 ../content-single.php:18 ../content-single.php:49
+#: ../content-single.php:83
+msgid "Website"
+msgstr ""
+
+#: ../author.php:45
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: ../comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:36 ../comments.php:56
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:37 ../comments.php:57
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:38 ../comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:72
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../comments.php:73
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../comments.php:74
+msgid "Cancel reply"
+msgstr ""
+
+#: ../comments.php:75
+msgid "Post Comment"
+msgstr ""
+
+#: ../comments.php:79
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: ../comments.php:80
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../comments.php:81
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: ../comments.php:82
+msgid "Your email address will not be published."
+msgstr ""
+
+#: ../comments.php:83
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+
+#: ../content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: ../content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../content-page.php:17 ../content-single.php:11 ../content-single.php:76
+#: ../content.php:11 ../content.php:46 ../content.php:127 ../image.php:94
+msgid "Pages:"
+msgstr ""
+
+#: ../content-page.php:20 ../content-single.php:24 ../content-single.php:55
+#: ../content-single.php:89 ../content.php:18 ../content.php:53
+#: ../content.php:78 ../content.php:103 ../content.php:134 ../image.php:33
+#: ../image.php:101 ../inc/template-tags.php:81 ../inc/template-tags.php:100
+msgid "Edit"
+msgstr ""
+
+#: ../content-single.php:10 ../content-single.php:42 ../content-single.php:75
+#: ../content.php:10 ../content.php:45 ../content.php:126
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../content-single.php:25 ../content-single.php:56 ../content-single.php:90
+#: ../content.php:20 ../content.php:55 ../content.php:136
+msgid "Tagged as: "
+msgstr ""
+
+#: ../content-single.php:26 ../content-single.php:57 ../content-single.php:91
+#: ../content.php:23 ../content.php:58 ../content.php:139
+msgid "Categorized in&#58; "
+msgstr ""
+
+#: ../content.php:15 ../content.php:50 ../content.php:131
+msgid "Leave a comment"
+msgstr ""
+
+#: ../content.php:15 ../content.php:50 ../content.php:131
+msgid "1 Comment"
+msgstr ""
+
+#: ../content.php:15 ../content.php:50 ../content.php:131
+msgid "% Comments"
+msgstr ""
+
+#: ../content.php:102
+msgid "Read More&hellip;"
+msgstr ""
+
+#: ../footer.php:22
+#, php-format
+msgid "%1$s by %2$s"
+msgstr ""
+
+#: ../functions.php:62
+msgid "Nav Menu"
+msgstr ""
+
+#: ../functions.php:75
+msgid "Sidebar"
+msgstr ""
+
+#: ../header.php:31 ../header.php:474
+msgid "Skip to content"
+msgstr ""
+
+#: ../image.php:22
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>"
+msgstr ""
+
+#: ../image.php:37
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: ../image.php:38
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../page-explore.php:11
+msgid "Explore Page"
+msgstr ""
+
+#: ../page-explore.php:26
+msgid "Recent Posts"
+msgstr ""
+
+#: ../page-explore.php:46
+msgid "Categories"
+msgstr ""
+
+#: ../searchform.php:10
+msgctxt "assistive text"
+msgid "Search"
+msgstr ""
+
+#: ../searchform.php:11
+msgctxt "placeholder"
+msgid "Search&hellip;"
+msgstr ""
+
+#: ../searchform.php:11
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: ../searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: ../inc/customizer.php:38
+msgid "Header Options"
+msgstr ""
+
+#: ../inc/customizer.php:72
+msgid "Header Image"
+msgstr ""
+
+#: ../inc/customizer.php:79
+msgid "Favicon Image (recommended to be a PNG)"
+msgstr ""
+
+#: ../inc/customizer.php:86
+msgid "Show Site Title"
+msgstr ""
+
+#: ../inc/customizer.php:93
+msgid "Show Site Description"
+msgstr ""
+
+#: ../inc/customizer.php:100
+msgid "Show Navigation"
+msgstr ""
+
+#: ../inc/customizer.php:107
+msgid ""
+"HTML for description, if you wish to replace your blog description with HTML "
+"markup"
+msgstr ""
+
+#: ../inc/customizer.php:120
+msgid "Sidebar Options"
+msgstr ""
+
+#: ../inc/customizer.php:144
+msgid "Enable Sidebar"
+msgstr ""
+
+#: ../inc/customizer.php:151
+msgid "Sidebar Position"
+msgstr ""
+
+#: ../inc/customizer.php:155
+msgid "Left"
+msgstr ""
+
+#: ../inc/customizer.php:156
+msgid "Right"
+msgstr ""
+
+#: ../inc/customizer.php:162
+msgid "Sidebar Button Position"
+msgstr ""
+
+#: ../inc/customizer.php:173
+msgid "Always Visible Sidebar"
+msgstr ""
+
+#: ../inc/customizer.php:191
+msgid "Discussion Options"
+msgstr ""
+
+#: ../inc/customizer.php:203
+msgid "Enable Comments"
+msgstr ""
+
+#: ../inc/customizer.php:216
+msgid "Social Options"
+msgstr ""
+
+#: ../inc/customizer.php:365
+msgid "Show Social Icons"
+msgstr ""
+
+#: ../inc/customizer.php:372
+msgid "Open Links in New Tab/Window"
+msgstr ""
+
+#: ../inc/customizer.php:379 ../inc/customizer.php:386
+#: ../inc/customizer.php:393 ../inc/customizer.php:400
+#: ../inc/customizer.php:407 ../inc/customizer.php:414
+#: ../inc/customizer.php:421 ../inc/customizer.php:428
+#: ../inc/customizer.php:449 ../inc/customizer.php:456
+#: ../inc/customizer.php:463 ../inc/customizer.php:470
+#: ../inc/customizer.php:477 ../inc/customizer.php:484
+#: ../inc/customizer.php:491 ../inc/customizer.php:498
+#: ../inc/customizer.php:505 ../inc/customizer.php:512
+#: ../inc/customizer.php:519 ../inc/customizer.php:526
+#: ../inc/customizer.php:533 ../inc/customizer.php:540
+#: ../inc/customizer.php:547 ../inc/customizer.php:554
+#: ../inc/customizer.php:561 ../inc/customizer.php:568
+#: ../inc/customizer.php:575 ../inc/customizer.php:589
+msgid "Username"
+msgstr ""
+
+#: ../inc/customizer.php:400
+msgid " (or the long number in your profile URL)"
+msgstr ""
+
+#: ../inc/customizer.php:435
+msgid "Profile URL"
+msgstr ""
+
+#: ../inc/customizer.php:442
+msgid "Site URL"
+msgstr ""
+
+#: ../inc/customizer.php:582
+msgid "Group Name"
+msgstr ""
+
+#: ../inc/customizer.php:596
+msgid "RSS Feed"
+msgstr ""
+
+#: ../inc/customizer.php:603
+msgid "Email Address"
+msgstr ""
+
+#: ../inc/customizer.php:616
+msgid "Reading Options"
+msgstr ""
+
+#: ../inc/customizer.php:681
+msgid ""
+"Use entry excerpts instead of full text on site home. Excludes sticky posts."
+msgstr ""
+
+#: ../inc/customizer.php:688
+msgid "Displays posts' featured images when excerpts are shown on main page."
+msgstr ""
+
+#: ../inc/customizer.php:695
+msgid "Show tags on front page (tags will be shown on post's individual page)"
+msgstr ""
+
+#: ../inc/customizer.php:702
+msgid ""
+"Show categories on front page (categories will be shown on post's individual "
+"page)"
+msgstr ""
+
+#: ../inc/customizer.php:709
+msgid "Show author's name, profile image, and bio after posts"
+msgstr ""
+
+#: ../inc/customizer.php:716
+msgid "Entry Date Position"
+msgstr ""
+
+#: ../inc/customizer.php:720
+msgid "Above Header"
+msgstr ""
+
+#: ../inc/customizer.php:721
+msgid "Below Header"
+msgstr ""
+
+#: ../inc/customizer.php:727
+msgid "Show Page Headers"
+msgstr ""
+
+#: ../inc/customizer.php:734
+msgid "Show entry date for post excepts on the main page"
+msgstr ""
+
+#: ../inc/customizer.php:741
+msgid "Add an arrow before the title of a link post"
+msgstr ""
+
+#: ../inc/customizer.php:748
+msgid "Show all post types, including custom post types"
+msgstr ""
+
+#: ../inc/customizer.php:755
+msgid ""
+"Show Theme Info (display a line of text about the theme and its creator at "
+"the bottom of pages)"
+msgstr ""
+
+#: ../inc/customizer.php:762
+msgid "Text (colophon, copyright, credits, etc.) for the footer of the site"
+msgstr ""
+
+#: ../inc/customizer.php:775
+msgid "Other Options"
+msgstr ""
+
+#: ../inc/customizer.php:787
+msgid "Custom CSS"
+msgstr ""
+
+#: ../inc/customizer.php:826
+msgid "Accent Color"
+msgstr ""
+
+#: ../inc/customizer.php:832
+msgid "Active Link Color"
+msgstr ""
+
+#: ../inc/customizer.php:838
+msgid "Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:844
+msgid "Secondary Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:850
+msgid "Use accent color instead of text color for icons"
+msgstr ""
+
+#: ../inc/extras.php:77
+msgid "Category"
+msgstr ""
+
+#: ../inc/extras.php:80
+msgid "Tag"
+msgstr ""
+
+#: ../inc/extras.php:83
+msgid "Author"
+msgstr ""
+
+#: ../inc/extras.php:93 ../inc/extras.php:97
+msgid "Page "
+msgstr ""
+
+#: ../inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr ""
+
+#: ../inc/template-tags.php:27
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../inc/template-tags.php:31
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:56
+msgid "Post navigation"
+msgstr ""
+
+#: ../inc/template-tags.php:59
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr ""
+
+#: ../inc/template-tags.php:60
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:81
+msgid "Pingback:"
+msgstr ""
+
+#: ../inc/template-tags.php:91
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:97
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../inc/template-tags.php:104
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../inc/template-tags.php:118
+msgid "Reply"
+msgstr ""
+
+#: ../inc/template-tags.php:199
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:207
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#. Theme Description
+msgid ""
+"A minimal, modern theme, designed to be mobile first and fully responsive, "
+"Decode features the ability to change all the colors in the theme and an "
+"elegant sidebar conveniently accessed by tapping on the menu icon. The "
+"sidebar can fit all of your widgets and its position can be customized. You "
+"can also choose to keep the sidebar always visible on larger screens for an "
+"elegent two-column experience. You can even disable the sidebar and comment "
+"links if you choose. Decode supports link posts, where the title can be "
+"hyperlinked. Decode includes custom social icons in the header that you can "
+"easily link to your choice of 30 different social profiles from Twitter, and "
+"App.net, to Pinterest and LinkedIn, you will be sure to find support for the "
+"network you want alongside a bevy of customizations to make your site "
+"unique. Lastly, Decode is also built alongside a companion plugin that adds "
+"a sleek reply tool that lets readers send you a reply about the post using "
+"Twitter or App.net. <a href=\"http://scotthsmith.com/projects/decode/\">More "
+"info here</a>"
+msgstr ""
